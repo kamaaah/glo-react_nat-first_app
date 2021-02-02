@@ -1,4 +1,20 @@
 le 28 janvier 2021
+ 
+## Installation de library:
+ # INstall the command line tools
+$ npm install --global expo-cli
+
+# Create a new project 
+$ expo init my-project
+
+# générator ID unique
+$npm install uuid
+import { v4 as uuidv4 } from "uuid" ;
+# dans pour certaine config matérielle
+$ npm install --save react-native-get-random-values
+$ npx pod-install
+import "react-native-get-random-values";
+
 
 ## REACT NATIVE
 
